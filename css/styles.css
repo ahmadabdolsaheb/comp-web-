@@ -1,0 +1,15 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+div.dropdown-menu.show {
+  background-color: rgba(255,255,255,1);
+  border: none;
+}
+
+.navbar  {
+  background-color: transparent !important;
+
+}
+
+.navbar-brand{
+
+}
